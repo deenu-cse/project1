@@ -6,7 +6,7 @@ img {
 
 .card {
   cursor: pointer;
-  width: clamp(230px, 40vw, 180px);
+  width: clamp(250px, 40vw, 180px);
   height: 320px;
   border-radius: 10px;
   margin-bottom: 20px;
@@ -21,7 +21,7 @@ img {
 }
 .card img {
   border-radius: 10px;
-  width: clamp(230px, 40vw, 180px);
+  width: clamp(250px, 40vw, 180px);
   height: 320px;
 }
 
