@@ -327,31 +327,31 @@ body {
   }
 }
 
-@media screen and (max-width:1200px) {
+@media screen and (max-width:1210px) {
   .cards {
     grid-template-columns: repeat(3, 1fr);
   }
 }
-@media screen and (max-width:1200px) {
+@media screen and (max-width:1210px) {
   .lcard {
     grid-template-columns: repeat(3, 1fr);
   }
 }
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:945px) {
   .cards {
     grid-template-columns: repeat(2, 1fr);
     padding: auto;
   }
 }
-@media screen and (max-width:900px) {
+@media screen and (max-width:945px) {
   .lcard {
     grid-template-columns: repeat(2, 1fr);
     padding: auto;
   }
 }
 
-@media screen and (max-width:480px) {
+@media screen and (max-width:625px) {
   .card {
     max-width: 175px;
     max-height: 280px;
@@ -361,7 +361,7 @@ body {
     margin: 12px 3px;
   }
 }
-@media screen and (max-width:480px) {
+@media screen and (max-width:625px) {
   .card {
     max-width: 175px;
     max-height: 280px;
