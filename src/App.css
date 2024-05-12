@@ -259,13 +259,14 @@ body {
     margin: 15px;
     scroll-snap-align: center;
     min-height: 380px;
-    min-width: 550px;
+    width: clamp(300px, 80vw, 520px);
     border-radius: 20px;
 
     img {
       border-radius: 20px;
       height: 100%;
       width: 100%;
+      object-fit: cover;
     }
   }
 }
@@ -294,12 +295,6 @@ body {
   background-position: bottom;
   position: relative;
   top: 900px;
-}
-
-@media screen and (max-width:440px) {
-  .sliders .slides{
-    min-width: 300px;
-  }
 }
 @media screen and (max-width:800px) {
   main {
