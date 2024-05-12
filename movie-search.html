@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        .main {
+            background-color: aquamarine;
+            width: 100vw;
+            height: 100vh;
+        }
+
+        .card {
+            width: 250px;
+            height: auto;
+            border: 2px solid black;
+        }
+
+        .flex {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .hide {
+            display: none;
+        }
+
+        input {
+            margin: 5px 50%;
+            padding: 5px 15px;
+        }
+
+        .cards {
+            width: 100vw;
+            display: flex;
+        }
+
+        .card:hover {
+            .hide {
+                display: block;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="main">
+        <input type="text" id="search" placeholder="Search movie here...">
+        <div class="cards">
+            <div class="card">
+
+            </div>
+        </div>
+    </div>
+    <script>
+
+        const APIURL =
+            "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=04c35731a5ee918f014970082a0088b1&page=1";
+        const IMGPATH = "https://image.tmdb.org/t/p/w1280";
+        const SEARCHAPI =
+            "https://api.themoviedb.org/3/search/movie?&api_key=04c35731a5ee918f014970082a0088b1&query=";
+
+        async function getmovie(url) {
+            let a = await fetch(url)
+            let response = await a.json()
+            showmovie(response.results)
+        }
+        let showmovie = (data) => {
+            document.querySelector(".cards").innerHTML = ""
+            data.forEach(
+                (item) => {
+                    let box = document.createElement("div")
+                    box.classList.add("card")
+                    box.innerHTML = ` <img width="247px" height="auto" src="${IMGPATH + item.
+                        poster_path}">
+            <div class="hide">
+                <div class="flex">
+                    <h2>${item.original_title}</h2>
+                    <span>${item.vote_average}</span>
+                </div>
+                <h3>Overview:</h3>
+                <span>${item.overview}</span>
+            </div>`
+                    document.querySelector(".cards").appendChild(box)
+                }
+            )
+        }
+        document.querySelector("#search").addEventListener("keyup",
+            function (event) {
+                if (event.target.value != "") {
+                    getmovie(SEARCHAPI + event.target.value)
+                }
+                else {
+                    getmovie(APIURL)
+                }
+            })
+        getmovie(APIURL)
+    </script>
+</body>
+
+</html>

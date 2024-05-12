@@ -1,0 +1,72 @@
+img {
+  object-fit: cover;
+  /* mix-blend-mode:darken; */
+  width: 35px;
+}
+
+.card {
+  cursor: pointer;
+  width: clamp(230px, 40vw, 180px);
+  height: 320px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  position: relative;
+  color: white;
+  box-shadow: 5px 6px 6px rgb(73 92 212), -6px -5px 3px rgb(161 21 21 / 54%);
+  overflow: hidden;
+}
+.card:hover {
+  transition: all 0.5s;
+  transform: scale(1.08); 
+}
+.card img {
+  border-radius: 10px;
+  width: clamp(230px, 40vw, 180px);
+  height: 320px;
+}
+
+.card h1 {
+  font-family: serif;
+  font-size: 30px;
+  position: absolute;
+  bottom: 45px;
+  margin-left: 20px;
+  text-align: left;
+}
+
+.card h2 {
+  font-family: serif;
+  font-size: 18px;
+  position: absolute;
+  margin-left: 20px;
+  bottom: 25px;
+  text-align: center;
+}
+.card h3 {
+  font-family: serif;
+  font-size: 18px;
+  position: absolute;
+  margin-left: 20px;
+  bottom: 1px;
+  text-align: center;
+}
+
+input {
+  border: none;
+  outline: none;
+  background-color: rgb(73, 72, 72);
+  border-radius: 6px;
+  color: white;
+  border: 2px solid rgb(35, 34, 34);
+}
+.flex2{
+  margin-top: 12px;
+  display: flex;
+  text-align: center;
+  justify-content: end;
+  padding-right: 50px;
+  gap: 20px;
+}
+input:hover{
+  box-shadow: 5px 6px 6px rgb(73 92 212), -6px -5px 3px rgb(161 21 21 / 55%);
+}
