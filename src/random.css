@@ -64,7 +64,7 @@ input {
   display: flex;
   text-align: center;
   justify-content: end;
-  padding-right: 50px;
+  padding-right: 30px;
   gap: 20px;
 }
 input:hover{
@@ -72,6 +72,6 @@ input:hover{
 }
 @media screen and (max-width:420) {
   .flex2{
-    padding-right: 0px;
+    margin: 20px auto;
   }
 }
