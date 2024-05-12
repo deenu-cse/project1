@@ -51,9 +51,9 @@ function App() {
 export default App;
 function Card2() {
    return (
-      <>
+      <div className='lcard'>
          {
-            moviedata.slice(0,32).map((v, i) => (
+            moviedata.slice(0, 32).map((v, i) => (
                <Link key={i} to={`/${v.uid}`}>
                   <div className='card'>
                      <div className='imgmovie'>
@@ -64,6 +64,6 @@ function Card2() {
                </Link>
             ))
          }
-      </>
+      </div>
    )
 }

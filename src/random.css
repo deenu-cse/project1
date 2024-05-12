@@ -1,6 +1,5 @@
 img {
   object-fit: cover;
-  /* mix-blend-mode:darken; */
   width: 35px;
 }
 
@@ -72,6 +71,7 @@ input:hover{
 }
 @media screen and (max-width:420) {
   .flex2{
-    margin: 20px auto;
+    padding-right: 0px;
+    gap: 5px;
   }
 }

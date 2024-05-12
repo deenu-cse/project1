@@ -13,6 +13,7 @@ body {
   height: 100vh;
 
   .bgd {
+    margin-top: 12px;
     position: absolute;
     top: 0;
     left: 0;
@@ -101,7 +102,7 @@ main {
 .cards {
   padding-top: 15px;
   padding-left: 15px;
-  margin: 12px auto;
+  margin: 15px auto;
   max-width: 90vw;
   max-height: 680px;
   display: grid;
@@ -110,18 +111,29 @@ main {
   border-radius: 10px;
 }
 
-.cardy {
+.lcard {
   padding-top: 25px;
   padding-left: 15px;
-  margin: 12px auto;
-  max-width: 85vw;
-  max-height: 680px;
+  margin: 18px auto;
+  max-width: 90vw;
+  max-height: 691px;
   display: grid;
   grid-template-columns: repeat(4, 4fr);
   overflow-y: scroll;
   border-radius: 10px;
 }
 
+.card{
+  cursor: pointer;
+  width: clamp(250px, 40vw, 180px);
+  height: 320px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  position: relative;
+  color: white;
+  box-shadow: 5px 6px 6px rgb(73 92 212), -6px -5px 3px rgb(161 21 21 / 54%);
+  overflow: hidden;
+}
 * {
   scrollbar-width: thin;
   scrollbar-color: #7a90ac transparent;
@@ -321,6 +333,11 @@ body {
     grid-template-columns: repeat(3, 1fr);
   }
 }
+@media screen and (max-width:1200px) {
+  .cardy {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
 
 @media screen and (max-width:900px) {
   .cards {
@@ -328,13 +345,29 @@ body {
     padding: auto;
   }
 }
+@media screen and (max-width:900px) {
+  .cardy {
+    grid-template-columns: repeat(2, 1fr);
+    padding: auto;
+  }
+}
 
 @media screen and (max-width:480px) {
   .card {
-    max-width: 155px;
+    max-width: 158px;
     max-height: 280px;
   }
   .cards{
+    max-width: 100vw;
+    margin: 12px 3px;
+  }
+}
+@media screen and (max-width:480px) {
+  .cardl {
+    max-width: 158px;
+    max-height: 280px;
+  }
+  .cardy{
     max-width: 100vw;
     margin: 12px 3px;
   }

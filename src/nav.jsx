@@ -1,9 +1,9 @@
 import React from 'react'
-import logo from './logo3.jpg'
+import logo from './logo-s.png'
 import './random.css'
 export default function Nav() {
   return (
-    <div>
+    <div className='logo'>
       <img src={logo}></img>
     </div>
   )
