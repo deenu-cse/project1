@@ -361,9 +361,29 @@ body {
     margin: 12px 3px;
   }
 }
+@media screen and (max-width:395px) {
+  .card {
+    max-width: 155px;
+    max-height: 280px;
+  }
+  .cards{
+    max-width: 100vw;
+    margin: 12px 3px;
+  }
+}
 @media screen and (max-width:625px) {
   .card {
     max-width: 175px;
+    max-height: 280px;
+  }
+  .lcard{
+    max-width: 100vw;
+    margin: 12px 3px;
+  }
+}
+@media screen and (max-width:395px) {
+  .card {
+    max-width: 155px;
     max-height: 280px;
   }
   .lcard{
