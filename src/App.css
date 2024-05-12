@@ -13,7 +13,6 @@ body {
   height: 100vh;
 
   .bgd {
-    margin-top: 12px;
     position: absolute;
     top: 0;
     left: 0;
@@ -354,7 +353,7 @@ body {
 
 @media screen and (max-width:480px) {
   .card {
-    max-width: 158px;
+    max-width: 175px;
     max-height: 280px;
   }
   .cards{
@@ -364,7 +363,7 @@ body {
 }
 @media screen and (max-width:480px) {
   .card {
-    max-width: 165px;
+    max-width: 175px;
     max-height: 280px;
   }
   .lcard{
