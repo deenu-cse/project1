@@ -303,6 +303,16 @@ body {
   }
 }
 
+@media screen and (max-width:500px) {
+  .slides:hover img {
+    transition: all ;
+    translate: none;
+    transform: none;
+    cursor: pointer;
+    width: 100%;
+    height: auto;
+  }
+} 
 @media screen and (max-width:1200px) {
   .cards {
     grid-template-columns: repeat(3, 1fr);
