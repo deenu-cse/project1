@@ -8,10 +8,10 @@ export default [
         "year": 2024,
         "dlink": "",
         "rating": "",
+        "himg":"https://w0.peakpx.com/wallpaper/11/61/HD-wallpaper-actors-robert-downey-jr-actor-american-sunglasses.jpg",
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDMwZjliMTUtOGRiNS00OTg1LTkyMDYtZjJmNmUxOWYzN2ViXkEyXkFqcGdeQXVyMTU5OTc2NTk@._V1_FMjpg_UX1025_.jpg",
         "images": [
             "https://w0.peakpx.com/wallpaper/179/730/HD-wallpaper-iron-man-mark-45-iron-man.jpg",
-            // "https://w0.peakpx.com/wallpaper/11/61/HD-wallpaper-actors-robert-downey-jr-actor-american-sunglasses.jpg"
         ]
     },
     {
@@ -27,9 +27,9 @@ export default [
         "brand": "Al Munakh",
         "category": "fragrances",
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2U2YWU5NWMtOGI2Ni00MGMwLWFkNjItMjgyZWMxNjllNTMzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UY2500_.jpg",
+        "himg":"https://i.pinimg.com/564x/aa/3c/df/aa3cdfee58197bd079476f1b03a072e9.jpg",
         "images": [
-            "https://w0.peakpx.com/wallpaper/724/29/HD-wallpaper-captain-america-captain-america-super-hero.jpg",
-            // "https://i.pinimg.com/564x/aa/3c/df/aa3cdfee58197bd079476f1b03a072e9.jpg",
+            "https://w0.peakpx.com/wallpaper/724/29/HD-wallpaper-captain-america-captain-america-super-hero.jpg"
         ]
     },
     {
@@ -44,10 +44,10 @@ export default [
         "stock": 114,
         "brand": "Al Munakh",
         "category": "fragrances",
+        "himg":"https://www.pinkvilla.com/images/2022-09/tom_holland_15.jpg",
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDIzM2FlNTctNjAzZi00YzhkLThjYWQtMDY5Njc0NjdmMGVlXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_FMjpg_UX520_.jpg",
         "images": [
             "https://w0.peakpx.com/wallpaper/115/81/HD-wallpaper-amazing-spider-man-2-amazing-spider-man-amazing-spider-man-2-marvel-sony-spider-man.jpg",
-            // "https://www.pinkvilla.com/images/2022-09/tom_holland_15.jpg",
         ]
     },
     {
@@ -58,11 +58,10 @@ export default [
         "rating": 7.9,
         "Hero": "Thor",
         "stock": 114,
-        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDgxOTdjMzYtZGQxMS00ZTAzLWI4Y2UtMTQzN2VlYjYyZWRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX886_.jpg",
+        "thumbnail":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aa454069-1f38-4db1-a9e3-75d6b00c42e8/dfx419e-e0adccbd-8451-41dc-8540-bc37986b91c0.jpg/v1/fill/w_748,h_1069,q_70,strp/guardians_of_the_galaxy_vol_3_action_poster_by_akithefull_dfx419e-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgyOSIsInBhdGgiOiJcL2ZcL2FhNDU0MDY5LTFmMzgtNGRiMS1hOWUzLTc1ZDZiMDBjNDJlOFwvZGZ4NDE5ZS1lMGFkY2NiZC04NDUxLTQxZGMtODU0MC1iYzM3OTg2YjkxYzAuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.OAxcpbR9VIc9vaVqZrh79U2ggNW8WjPOP38XxNlAoZg",
+        "himg":"https://ca-times.brightspotcdn.com/dims4/default/812c7f8/2147483647/strip/true/crop/5076x3807+0+0/resize/1200x900!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2Fe9%2Fde9f3fac4f3a85d28508df65e0e6%2Fny-premiere-of-limitless-with-chris-hemsworth-68062.jpg",
         "images": [
             "https://i.pinimg.com/originals/c1/56/2c/c1562cb765f280bb67044031295b1a76.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
-
         ]
     },
     {
@@ -73,10 +72,9 @@ export default [
         "year": 2022,
         "rating": 6.4,
         "Hero": "Hulk",
+        "himg":"https://www.esquireme.com/cloud/2021/09/08/Mark-Ruffalo.jpg",
         "images": [
             "https://i.pinimg.com/originals/e7/83/d7/e783d72231e782f78fd0a280880a0540.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
-
         ],
         "description": "Doctor Strange in the Multiverse of Madness delves into the mystical realms as Stephen Strange navigates a treacherous journey through alternate dimensions and parallel universes. Wrestling with the consequences of tampering with time, Strange confronts dark forces that threaten to unravel reality itself. Joined by allies old and new, including the enigmatic Scarlet Witch, he must harness his mastery of the mystic arts to combat ancient evils and restore balance to the multiverse. With mind-bending visuals and thrilling sorcery, the film promises to be a kaleidoscopic adventure that explores the boundless possibilities of the Marvel Cinematic Universe.",
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UY2500_.jpg",
@@ -88,10 +86,9 @@ export default [
         "title": "Thor: Love and Thunder",
         "year": 2022,
         "rating": 6.2,
+        "himg":"https://networthxi.com/wp-content/uploads/2017/05/Scarlett-Johansson-Net-Worth-Age-Height-Husband-Profile-Movies-a.jpg",
         "images": [
             "https://i.pinimg.com/564x/23/32/7c/23327ca543110ffae03159d9dea91bd4.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
-
         ],
         "dlink": "https://long-hall-4bd6.yahadat8701444.workers.dev/1396595190/94f664a8bd1e40359ab08354a1209bef43af08c0d82028a76419b5b568966df680ba54363d552f161b2c1df4ed42a758063f2df73192ad8dda2287be743a5c22241f444fdde12cc2b1858531356cb1ae2c2c787737a22f61bcd464b6db0aa18efd5d3f3bcdbbb408aa86b340915414ea35be2ba52bac0bc8ec922ccdf1409ba24a6e358d16a44f5eba307340ca5496c8314b103fb0235cfa55304d7c6b1fa639::ea9c0e2634abb08cd7246846aa6a593a/Thor.Love.and.Thunder.2022.BluRay.720p.Hindi.English.AAC.5.1.x264.MSubs.-.Vegamovies.to.mkv",
         "description": "In Thor: Love and Thunder, the God of Thunder returns with a thunderous roar, embarking on an electrifying adventure unlike any other. As Thor grapples with newfound challenges and internal conflicts, he teams up with the mighty Valkyrie and the enigmatic Guardians of the Galaxy, facing off against cosmic threats and personal demons. Amidst the chaos, Jane Foster wields the power of Mjolnir, becoming the mighty Thor herself. With exhilarating action, heartfelt emotion, and cosmic spectacle, Love and Thunder promises to be a dazzling journey of heroism, redemption, and the power of love across the realms.",
@@ -104,10 +101,10 @@ export default [
         "year": 2022,
         "rating": 6.7,
         "Hero": "Hawkeye",
+        "himg":"https://cdn.britannica.com/34/218334-050-759D83D7/American-actor-Jeremy-Renner-2017.jpg",
         "dlink": "https://lively-block-5b85.xipow36551427.workers.dev/1396595121/c626f8f76cfd09326fd095c7ceda2efd8d289402f3c16742fd20f87515d7dfa3964192208b5ba4747aa7029bf5f4704ffdefa0902c34751497add8be64ff6368c19f917442662a30cc1bced25daf02be845ef7ab0d3f9fb000ae3fdf9c619a7371d0bb2c6599dd8569aec7281956b10e1f804e91bd1ac937c9f6e5e33415c946f010f1946b701e6a13af9ef5a0730ee7::71e61173028fb136ec46f1adad866067",
         "images": [
             "https://i.pinimg.com/564x/6c/bc/77/6cbc77cd6ba710531c7cce9f58b9a581.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
 
         ],
         "description": "Black Panther: Wakanda Forever pays homage to Chadwick Boseman's legacy while expanding the rich tapestry of Wakandan culture and heroism. As the nation mourns the loss of its king, T'Challa, the mantle of the Black Panther is passed to a new protector, grappling with the weight of tradition and the challenges of leadership. Against the backdrop of political intrigue and external threats, the people of Wakanda unite to defend their homeland and honor T'Challa's memory. With themes of legacy, identity, and unity, Wakanda Forever celebrates the enduring spirit of Wakanda and its remarkable heroism.",
@@ -121,10 +118,9 @@ export default [
         "year": 2021,
         "popular": "Spider-Man: No Way Home",
         "Hero": "Black Panther",
+        "himg":"https://www.essence.com/wp-content/uploads/2018/03/1521472877/GettyImages-926976624.jpg",
         "images": [
             "https://i.pinimg.com/564x/5d/25/f0/5d25f0eca9681ad1a89eebc5a71e1712.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
-
         ],
         "dlink": "https://pub-55d2d9eca98648babf4a3de0af71c353.r2.dev/2_[iMAX]%20Spider-Man.No.Way.Home.2021.IMAX.BluRay.Dual.1080p%20-%20Vegamovies.to.mkv",
         "description": "Spider-Man: No Way Home follows Peter Parker's struggle as his secret identity is exposed, unleashing chaos upon his life. With the help of Doctor Strange, he embarks on a perilous journey through the multiverse, facing familiar foes from alternate realities. As he grapples with the consequences of his actions and the burden of responsibility, Peter must confront his greatest challenge yet. Packed with mind-bending twists, epic battles, and emotional resonance, No Way Home promises to be a thrilling exploration of heroism, sacrifice, and the enduring spirit of the friendly neighborhood Spider-Man.",
@@ -137,10 +133,9 @@ export default [
         "year": 2021,
         "rating": 6.3,
         "Hero": "Doctor Strange",
+        "himg":"https://m.media-amazon.com/images/M/MV5BMjE0MDkzMDQwOF5BMl5BanBnXkFtZTgwOTE1Mjg1MzE@._V1_.jpg",
         "images": [
             "https://i.pinimg.com/564x/ef/7d/63/ef7d63b35410bdc116f7eb1144f0a515.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
-
         ],
         "description":
             "Eternals introduces a celestial team of immortal beings who have secretly shaped Earths history for millennia. Tasked with protecting humanity from ancient threats, they reunite to confront the emergence of their nefarious counterparts, the Deviants. As they grapple with their purpose and identities, the Eternals face moral dilemmas and existential questions, testing the limits of their powers and bonds. With breathtaking visuals, epic scale, and diverse characters, Eternals explores themes of destiny, sacrifice, and the eternal struggle between good and evil, offering a fresh perspective on the Marvel Cinematic Universe.",
@@ -153,9 +148,9 @@ export default [
         "dlink": "https://5f61ef50c685a945364a5a3689cd8034.r2.cloudflarestorage.com/hub/2_Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%202021%20IMAX%201080p%20DSNP%20WEB-DL%20x265%20HEVC%2010bit%20%5BOrg%20Hindi%20DDP%205.1%20~192Kbps%20%2B%20English%20DDP%205.1%5D%20ESub%20~%20Vegamovi?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=fbc392f436d22304d65f4fbb2d39680b%2F20240509%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240509T170733Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&response-content-disposition=2_Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%202021%20IMAX%201080p%20DSNP%20WEB-DL%20x265%20HEVC%2010bit%20%5BOrg%20Hindi%20DDP%205.1%20~192Kbps%20%2B%20English%20DDP%205.1%5D%20ESub%20~%20Vegamovi&X-Amz-Signature=2cb85fff43c20d6ac4119904e11bdda4221175260fea90e9849147f9848b391f",
         "year": 2021,
         "Hero": "Deadpool",
+        "himg":"https://i.insider.com/5b01ca5f42e1cc72c82d50b4?width=600&format=jpeg&auto=webp",
         "images": [
             "https://i.pinimg.com/564x/17/d3/4c/17d34c7da196f155d4ecc0c85b8cdd3d.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
 
         ],
         "rating": 7.4,
@@ -171,10 +166,9 @@ export default [
         "year": 2019,
         "rating": 8.4,
         "Hero": "Ant-Man",
+        "himg":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Paul_Rudd_%28cropped%29_2.jpg/640px-Paul_Rudd_%28cropped%29_2.jpg",
         "images": [
-            "https://i.pinimg.com/564x/7f/9d/df/7f9ddf2ba19e4a66420ecca261668df3.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
-
+            "https://i.pinimg.com/564x/7f/9d/df/7f9ddf2ba19e4a66420ecca261668df3.jpg",  
         ],
         "description": "Avengers: Endgame is the epic culmination of the Marvel Cinematic Universe, as the surviving heroes grapple with the aftermath of Thanos' devastating snap. With the fate of the universe at stake, the Avengers embark on a daring mission through time to gather the Infinity Stones and undo the Mad Titan's actions. Packed with emotional reunions, epic battles, and poignant farewells, Endgame delivers a satisfying conclusion while reshaping the MCU's landscape and setting the stage for a new era of heroes and adventures.",
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_FMjpg_UY2048_.jpg",
@@ -188,10 +182,9 @@ export default [
         "year": 2019,
         "rating": 7.4,
         "Hero": "Scarlet Witch",
+        "himg":"https://variety.com/wp-content/uploads/2023/06/Screen-Shot-2023-06-09-at-12.34.47-PM.png",
         "images": [
             "https://i.pinimg.com/564x/05/2a/a9/052aa95dfa5e8f97b98207b32cd300ae.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
-
         ],
         "description": "Spider-Man: Far From Home swings Peter Parker across Europe for a much-needed vacation, but trouble follows. With Tony Stark's legacy looming large, Peter grapples with his responsibilities as both a teenager and a hero. When elemental creatures wreak havoc, he teams up with the enigmatic Mysterio to battle the emerging threats. Amidst breathtaking action and globe-trotting adventure, Peter must confront illusions, deceit, and the true meaning of heroism. Far From Home is a thrilling journey of self-discovery, friendship, and the enduring spirit of Spider-Man in the face of overwhelming odds and personal challenges.",
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BODJlNGFiNjctZWQ3My00ZmNhLThlNGYtNjA2ZTQ1ZGY0M2UwXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_FMjpg_UY2786_.jpg",
@@ -202,9 +195,9 @@ export default [
         "year": 2019,
         "rating": 6.8,
         "Hero": "Captain Marvel",
+        "himg": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Captain_Marvel_trailer_at_the_National_Air_and_Space_Museum_4_%28cropped%29.jpg/640px-Captain_Marvel_trailer_at_the_National_Air_and_Space_Museum_4_%28cropped%29.jpg",
         "images": [
             "https://i.pinimg.com/564x/35/39/a0/3539a0e870b971e2352aa34169d53b3b.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
 
         ],
         "dlink": "https://pixeldrain.net/api/file/PHjxUg4x?download",
@@ -218,10 +211,9 @@ export default [
         "description": "Thor: Ragnarok thrusts the God of Thunder into a cosmic adventure like never before. Stripped of his hammer and imprisoned on a distant planet, Thor must fight his way out to prevent the apocalyptic event of Ragnarok. Teaming up with old allies and new friends, including the Hulk and Valkyrie, Thor embarks on a hilarious and action-packed journey filled with colorful characters, epic battles, and witty humor. The film redefines the superhero genre with its bold visuals and irreverent tone.",
         "year": 2017,
         "Hero": "Falcon",
+        "himg":"https://i0.wp.com/www.thewrap.com/wp-content/uploads/2015/10/anthony-mackie.jpg?fit=618%2C412&ssl=1",
         "images": [
             "https://i.pinimg.com/564x/b0/c2/2b/b0c22be9c3f21f63c2d8c97ca35dd28a.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
-
         ],
         "dlink": "https://tartarus.feralhosting.com/firepig/JP/MOVIES/Thor.The.Dark.World.2013.720p.BluRay.DTS.x265.HEVC-PublicHD/Thor.The.Dark.World.2013.720p.BluRay.DTS.x265.HEVC-PublicHD.mkv",
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDE4ZDI5ZTItMWI4My00N2NlLWJmMTQtMjgzODkyYjk5MWRiXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_FMjpg_UX717_.jpg",
@@ -233,9 +225,9 @@ export default [
         "dlink": "https://pixeldrain.net/api/file/csAsi9ZR?download",
         "year": 2018,
         "Hero": "Winter Soldier",
+        "himg":"https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/47010/article_full%401x.png",
         "images": [
-            "https://i.pinimg.com/564x/60/fe/4b/60fe4b8eb7cdf8d90397e29bca131bca.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
+            "https://i.pinimg.com/564x/60/fe/4b/60fe4b8eb7cdf8d90397e29bca131bca.jpg"
 
         ],
         "rating": 7.3,
@@ -249,9 +241,9 @@ export default [
         "year": 2018,
         "rating": 8.4,
         "Hero": "Daredevil",
+        "himg":"https://i.pinimg.com/736x/fe/95/ed/fe95ed1a518e96bc76d719985705090f.jpg",
         "images": [
             "https://i.pinimg.com/564x/aa/4a/61/aa4a6134ade1362054d9456e614b3c34.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
 
         ],
         "dlink": "https://tartarus.feralhosting.com/firepig/JP/MOVIES/Avengers.Infinity.War.2018.1080p.BRRip.5.1.HEVC.x265-GIRAYS%202.mkv",
@@ -263,11 +255,10 @@ export default [
         "title": "Ant-Man and the Wasp",
         "description": "Ant-Man and the Wasp reunites Scott Lang and Hope van Dyne in a high-stakes, size-shifting adventure. As they race against time to rescue Hope's long-lost mother from the quantum realm, they face a formidable new adversary, Ghost, who can phase through solid matter. With inventive action sequences and comedic flair, the duo navigates through shrinking and enlarging landscapes, while balancing their personal lives and the responsibilities of being heroes. Packed with humor and heart, Ant-Man and the Wasp delivers a delightful and entertaining addition to the Marvel Cinematic Universe.",
         "year": 2018,
+        "himg":"https://images.hindustantimes.com/rf/image_size_640x362/HT/p2/2016/05/04/Pictures/krysten-ritter_ff3cc41e-11d3-11e6-a855-9958039a7c6d.jpg",
         "Hero": "Jessica Jones",
         "images": [
             "https://i.pinimg.com/564x/7a/b0/b7/7ab0b7aac18a00f025c8f3faa61c934a.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
-
         ],
         "rating": 7,
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UY2500_.jpg",
@@ -282,8 +273,6 @@ export default [
         "Hero": "Jessica Jones",
         "images": [
             "https://i.pinimg.com/564x/9b/99/5d/9b995d7f871457ac5fce20cafadbe12b.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
-
         ],
         "rating": 7.8,
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDc2MDk3NzAtMTI2My00YmQzLTkxMTktZjRkZWYyYjVkMThjXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_FMjpg_UX1000_.jpg",
@@ -296,10 +285,9 @@ export default [
         "dlink": "https://b31e3cd4e7aadb8c50d06763a6cde3a1.r2.cloudflarestorage.com/hub/Doctor%20Strange%202016%20IMAX%201080p%2010bit%20DSNP%20WEB-DL%20x265%20HEVC%20%5BOrg%20Hindi%20BD%205.1%20640Kbps%20%2B%20English%20DDP%205.1%5D%20MSubs%20~%20Vegamovies.NL.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=eced440c71968dbbf7b483a812d5326e%2F20240509%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240509T144453Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&response-content-disposition=Doctor%20Strange%202016%20IMAX%201080p%2010bit%20DSNP%20WEB-DL%20x265%20HEVC%20%5BOrg%20Hindi%20BD%205.1%20640Kbps%20%2B%20English%20DDP%205.1%5D%20MSubs%20~%20Vegamovies.NL.mkv&X-Amz-Signature=11ad0d7b6493e29c7cc4f5c3f22c87c55b66008a3d735610dee14c9c360e0b38",
         "year": 2016,
         "Hero": "Iron Fist",
+        "himg":"https://variety.com/wp-content/uploads/2016/02/finn-jones-iron-fist.jpg",
         "images": [
             "https://i.pinimg.com/564x/20/84/50/20845022050d6b99ae942a6ed7f13de5.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
-
         ],
         "rating": 7.5,
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_FMjpg_UY2048_.jpg",
@@ -311,10 +299,9 @@ export default [
         "dlink": "https://green-bonus-ad4f.palosor7772625.workers.dev/038f84d7dd99ba828d7eda9940db85b106a0f018b8e367b19fe58be23a9ee81c77378b2736dd59496fcee0426ac0c395::ea6073d705fc89b08ae779ac10cd5216/1396595121/Guardians%20of%20the%20Galaxy%20Vol.%202%20(2017)%20IMAX%201080p%2010bit%20DSNP%20WEB-DL%20x265%20HEVC%20[Org%20Hindi%20BD%205.1%20640Kbps%20+%20English%20DDP%205.1]%20MSubs%20~%20Vegamovies.NL.mkv",
         "year": 2017,
         "Hero": "Wolverine",
+        "himg":"https://static.republika.co.id/uploads/images/inpicture_slide/hugh-jackman-_170309174559-789.jpg",
         "images": [
             "https://i.pinimg.com/564x/e7/c4/b6/e7c4b6825fc6ff11cdf4d6b1ce077ccc.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
-
         ],
         "rating": 7.6,
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_FMjpg_UX509_.jpg",
@@ -323,9 +310,9 @@ export default [
         "id": "Spider-Man",
         "uid": "Spider-Man:Homecoming",
         "Hero": "Ghost Rider",
+        "himg":"https://www.hollywoodreporter.com/wp-content/uploads/2011/06/nicolas_cage_2011_a_p.jpg",
         "images": [
             "https://i.pinimg.com/564x/02/ad/22/02ad22978f34007131f7e8273d84c10b.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
 
         ],
         "title": "Spider-Man: Homecoming",
@@ -342,9 +329,10 @@ export default [
         "description": "Captain America: The Winter Soldier thrusts Steve Rogers into a world of espionage and intrigue when a shadowy conspiracy threatens S.H.I.E.L.D. With the help of Natasha Romanoff and new ally Sam Wilson, Captain America uncovers a chilling truth: his old friend Bucky Barnes, now the brainwashed assassin Winter Soldier, is at the heart of the conspiracy. Packed with intense action and political thriller elements, the film redefines the superhero genre.",
         "year": 2014,
         "Hero": "Moon Knight",
+        "himg":"https://images.fandango.com/ImageRenderer/300/0/redesign/static/img/default_poster.png/0/images/masterrepository/performer%20images/316067/OliverJackson-Cohen-2022_r.jpg",
         "images": [
             "https://i.pinimg.com/564x/e0/d1/3f/e0d13f0502fad338a02ead315e96baf3.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
+        "https://images.fandango.com/ImageRenderer/300/0/redesign/static/img/default_poster.png/0/images/masterrepository/performer%20images/316067/OliverJackson-Cohen-2022_r.jpg",
 
         ],
         "rating": 7.7,
@@ -359,10 +347,10 @@ export default [
         "year": 2014,
         "dlink": "https://96d2d14554994796110e164460cafe6c.r2.cloudflarestorage.com/hub/Guardians%20of%20the%20Galaxy%202014%20IMAX%201080p%20DSNP%20WEB-DL%20x265%20HEVC%2010bit%20%5BOrg%20Hindi%20DDP%205.1%20~640Kbps%20%2B%20English%20DDP%205.1%5D%20ESub%20~%20Vegamovies.NL.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=026264d434c6985b9db36fa5db2468d8%2F20240509%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240509T160416Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&response-content-disposition=Guardians%20of%20the%20Galaxy%202014%20IMAX%201080p%20DSNP%20WEB-DL%20x265%20HEVC%2010bit%20%5BOrg%20Hindi%20DDP%205.1%20~640Kbps%20%2B%20English%20DDP%205.1%5D%20ESub%20~%20&X-Amz-Signature=fa0c7a7dc356943771b143e38d75971cd91fd205e0a3d8dabc7e8fa3979e73d6",
         "rating": 8,
+        "himg": "https://static-ssl.businessinsider.com/image/5575f2f569bedd2e07e1f016-2641-1980/paul-bettany-avengers-age-of-ultron-world-premiere-1.jpg",
         "Hero": "Vision",
         "images": [
             "https://i.pinimg.com/564x/56/f4/9b/56f49bafd79b6afd1c50c4b7018b5be6.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
 
         ],
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTkwZjU3MTctMGExMi00YjU5LTgwMDMtOWNkZDRlZjQ4NmZhXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UY3000_.jpg",
@@ -374,17 +362,15 @@ export default [
         "Hero": "Wasp",
         "images": [
             "https://i.pinimg.com/564x/02/57/a2/0257a20845d29ec962fcf91634fee9f1.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
-
         ],
         "popular": "popular",
         "description": "Avengers: Age of Ultron sees Earth's mightiest heroes reunite to confront a new threat: Ultron, a sentient AI created by Tony Stark. Intent on wiping out humanity, Ultron recruits twins Pietro and Wanda Maximoff to aid his cause. As the Avengers battle their own inner demons and grapple with the consequences of their actions, they must band together to stop Ultron's destructive plans. Packed with thrilling action, emotional depth, and complex themes, Age of Ultron explores the price of power and the resilience of the human spirit in the face of overwhelming odds.",
         "year": 2015,
         "dlink": "",
         "Hero": "Elektra",
+        "himg": "https://www.femalefirst.co.uk/image-library/port/1000/e/elodie-yung-credit-famous-2.jpg",
         "images": [
             "https://i.pinimg.com/564x/0a/a4/73/0aa473c195d27ebb6da2ee09de7076b6.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
 
         ],
         "rating": 7.3,
@@ -398,10 +384,10 @@ export default [
         "year": 2011,
         "dlink": "https://tartarus.feralhosting.com/firepig/JP/MOVIES/Thor.2011.1080p.BluRay.x264-SECTOR7/s7-thor.1080.mkv",
         "rating": 7,
+        "himg":"https://cdn.justjared.com/wp-content/uploads/2020/02/jane-elton/thomas-jane-anne-heche-elton-john-oscar-party-19.jpg",
         "Hero": "Punisher",
         "images": [
             "https://i.pinimg.com/564x/28/f3/4d/28f34d8683d639a3f876f92df25847ef.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
 
         ],
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzMyNzUxNjMtNjBmMi00YWRmLTk0N2QtODFjZWJmZDc5OGQwXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX800_.jpg",
@@ -413,9 +399,9 @@ export default [
         "description": "Captain America: The First Avenger follows Steve Rogers, a frail but determined young man who undergoes a transformative procedure, becoming the super-soldier Captain America. Tasked with defeating the villainous Red Skull and his Hydra forces during World War II, Captain America leads the fight for freedom and justice. Alongside his loyal allies, including Peggy Carter and Bucky Barnes, he confronts his own doubts and fears, embodying the ideals of heroism, sacrifice, and patriotism. Packed with thrilling action, heartfelt emotion, and historical resonance, The First Avenger is a classic tale of courage and honor.",
         "year": 2011,
         "Hero": "Quicksilver",
+        "himg":"https://screencritix.com/wp-content/uploads/2013/10/aaron-johnson.jpg",
         "images": [
             "https://i.pinimg.com/564x/fe/8a/93/fe8a93cc4fc643524ef94b6e39d5a9ab.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
 
         ],
         "rating": 6.9,
@@ -428,10 +414,10 @@ export default [
         "title": "The Avengers",
         "description": "The Avengers unites Earth's mightiest heroes—Iron Man, Captain America, Thor, Hulk, Black Widow, and Hawkeye—to combat Loki and his alien army, threatening global destruction. As they set aside their differences and forge alliances, the team faces internal conflicts and external threats, testing their mettle and unity. Packed with exhilarating action, witty banter, and iconic moments, The Avengers is a thrilling superhero spectacle that sets the standard for epic ensemble films, showcasing the power of teamwork and heroism on a grand scale.",
         "year": 2012,
+        "himg":"https://static.wikia.nocookie.net/westworld/images/a/a2/Tessa_Thompson.jpg/revision/latest?cb=20161028053148",
         "Hero": "Valkyrie",
         "images": [
             "https://i.pinimg.com/564x/7f/ac/1d/7fac1dc33e1afa2d3de85223c8776dec.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
 
         ],
         "rating": 8,
@@ -444,10 +430,9 @@ export default [
         "description": "In Iron Man 3, Tony Stark grapples with post-traumatic stress disorder following the events of The Avengers. When a mysterious terrorist known as the Mandarin attacks, Stark embarks on a personal quest for vengeance. Stripped of his armor and resources, Stark relies on his ingenuity and determination to confront the true nature of the threat. Packed with intense action, unexpected twists, and emotional depth, Iron Man 3 explores Stark's resilience and the cost of being a hero in a world full of dangers.",
         "year": 2013,
         "Hero": "Shang-Chi",
+        "himg":"https://www.comingsoon.net/wp-content/uploads/sites/3/2019/07/GettyImages-1163018028.jpg?w=800",
         "images": [
             "https://i.pinimg.com/564x/49/4e/78/494e78832696f6778c8a0dc7f495cf2a.jpg",
-            // "https://cdn.dummyjson.com/product-images/14/2.jpg",
-
         ],
         "rating": 7.1,
         "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTc0ZTJhNDktODQyYS00ZTlhLTg2NTYtYjNmYWFkZGZkOWJjXkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_FMjpg_UX600_.jpg",

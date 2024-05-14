@@ -50,20 +50,33 @@ function App() {
 
 export default App;
 function Card2() {
+   const [hoverimg, sethoverimg] = useState(new Array(32).fill(false))
+
+   const handleimg = (index) => {
+      const updatehovercard = [...hoverimg]
+      updatehovercard[index] = true
+      sethoverimg(updatehovercard)
+   }
+   const handleimgremove = (index) => {
+      const updatehovercard = [...hoverimg]
+      updatehovercard[index] = false
+      sethoverimg(updatehovercard)
+   }
+
    return (
-      <>
+      <div className='lcard'>
          {
-            moviedata.slice(0,32).map((v, i) => (
+            moviedata.slice(0, 32).map((v, i) => (
                <Link key={i} to={`/${v.uid}`}>
-                  <div className='card'>
+                  <div className='card' onMouseEnter={() => handleimg(i)} onMouseLeave={() => handleimgremove(i)}>
                      <div className='imgmovie'>
-                        <img src={v.images} alt={`${v.title} Thumbnail`} />
+                        <img src={hoverimg[i] ? v.himg : v.images} alt={`${v.title} Thumbnail`} />
                      </div>
                      <h2>{v.Hero}</h2>
                   </div>
                </Link>
             ))
          }
-      </>
+      </div>
    )
 }
