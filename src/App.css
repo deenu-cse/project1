@@ -308,6 +308,28 @@ body {
   position: relative;
   top: 900px;
 }
+.pagination button{
+  cursor: pointer;
+  z-index: 9999;
+  font-size: 16px;
+  background-color: rgb(59 57 57 / 72%);
+  padding: 2px 10px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 15px;
+  transition-duration: 0.4s;
+}
+.pagination button:hover{
+  box-shadow: 5px 6px 6px rgb(73 92 212), -6px -5px 3px rgb(161 21 21 / 55%);
+}
+.pagination{
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}
 
 @media screen and (max-width:800px) {
   main {

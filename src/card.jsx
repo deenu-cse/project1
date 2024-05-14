@@ -1,11 +1,14 @@
-// Card.jsx
 import React, { useState } from 'react';
 import './random.css';
 import moviedata from './mdata';
 import { Link } from 'react-router-dom';
 
+const cardsPerPage = 12; 
+
 export default function Card({ selectmovie }) {
     const [input, setinput] = useState('');
+    const [currentPage, setCurrentPage] = useState(1);
+
     const handleCards = (event) => {
         setinput(event.target.value === "All Movie" ? "" : event.target.value);
     };
@@ -16,6 +19,21 @@ export default function Card({ selectmovie }) {
         )) &&
         (selectmovie === "All Movie" || movie.id === selectmovie)
     ));
+
+    const totalPages = Math.floor(filterData.length / cardsPerPage);
+
+    const handleNextPage = (event) => {
+        event.preventDefault();
+        setCurrentPage(prevPage => Math.min(prevPage + 1, totalPages));
+    };
+
+    const handlePrevPage = (event) => {
+        event.preventDefault();
+        setCurrentPage(prevPage => Math.max(prevPage - 1, 1));
+    };
+
+    const startIndex = (currentPage - 1) * cardsPerPage;
+    const endIndex = startIndex + cardsPerPage;
 
     return (
         <div>
@@ -35,7 +53,7 @@ export default function Card({ selectmovie }) {
                 <input value={input} onChange={handleCards} placeholder='search here...' />
             </div>
             <div className='cards'>
-                {filterData.map((v, i) => (
+                {filterData.slice(startIndex, endIndex).map((v, i) => (
                     <Link key={i} to={`/movies/${v.uid}`} >
                         <div className='card'>
                             <div className='imgmovie'>
@@ -46,6 +64,10 @@ export default function Card({ selectmovie }) {
                         </div>
                     </Link>
                 ))}
+            </div>
+            <div className="pagination">
+                <button onClick={handlePrevPage} disabled={currentPage === 1}>Previous</button>
+                <button onClick={handleNextPage} disabled={currentPage === totalPages}>Next</button>
             </div>
         </div>
     );
