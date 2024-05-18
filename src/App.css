@@ -361,9 +361,11 @@ body {
 .spider {
   position: relative;
   img {
+    position: relative;
     width: 100%;
     max-width: 270px;
     z-index: 999;
+    filter: drop-shadow(2px 4px 4px rgb(106, 103, 103));
   }
 }
 
@@ -374,6 +376,7 @@ body {
   margin-top: 20px;
   margin-top: -190px;
   z-index: 0;
+  filter: drop-shadow(2px 4px 6px black);
 }
 
 .company,
@@ -394,7 +397,6 @@ body {
   margin-top: 5px;
 }
 
-/* Media Query for responsiveness */
 
 @media (max-width: 668px) {
   .spider img {
@@ -410,9 +412,7 @@ body {
 @media (max-width: 600px) {
   .footerbox1 {
     min-height: auto;
-    /* Adjust min-height */
     padding: 10px;
-    /* Adjust padding */
   }
 
   /* .footerbox2 {
