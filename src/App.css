@@ -397,6 +397,61 @@ body {
   margin-top: 5px;
 }
 
+.container{
+  display: flex;
+  flex-direction: column;
+}
+.aboutbox {
+  border-radius: 12px;
+  border: 2px solid black;
+  max-width: 90vw;
+  margin: 20px auto;
+  background-image: url('./peakpx2.jpg');
+  box-shadow: 5px 6px 6px rgb(73 92 212), -6px -5px 3px rgb(161 21 21 / 55%);
+  padding: 20px;
+}
+
+.aboutbox h1 {
+  font-size: 36px;
+  color: #d31334;
+  margin-bottom: 10px;
+}
+.aboutbox h2 {
+  color: yellow;
+  margin-bottom: 10px;
+
+}
+
+.aboutbox ul {
+  font-size: 18px;
+  color: #fff;
+  list-style: none;
+  padding: 0;
+}
+
+.aboutbox ul li img{
+  width: clamp(250px, 40vw, 180px)
+}
+.aboutbox li {
+  margin-bottom: 15px;
+}
+
+.aboutbox li:first-child {
+  margin-top: 10px;
+}
+.aboutbox2{
+  margin-top: 0px;
+}
+
+.fb2{
+  min-height: 580px;
+}
+
+@media (max-width:450px) {
+  .aboutbox ul h1{
+    font-size: 25px;
+  }
+}
 
 @media (max-width: 668px) {
   .spider img {
