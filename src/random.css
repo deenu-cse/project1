@@ -69,6 +69,12 @@ input {
 input:hover{
   box-shadow: 5px 6px 6px rgb(73 92 212), -6px -5px 3px rgb(161 21 21 / 55%);
 }
+.logo button{
+  color: #c260e6;
+  font-weight: 700;
+  font-size: larger;
+  padding-right: 5px;
+}
 @media screen and (max-width:420) {
   .flex2{
     padding-right: 0px;

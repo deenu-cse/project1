@@ -1,11 +1,13 @@
 import React from 'react';
 import './App.css';
 import Footer from './Footer';
+import Nav from './nav';
 
 function Follow() {
     return (
         <>
             <div className='container '>
+                <Nav/>
                 <div className='aboutbox'>
                     <ul>
                         <li><img src="https://img.icons8.com/?size=100&id=xtGpGyuYeJMc&format=png&color=000000" /></li>

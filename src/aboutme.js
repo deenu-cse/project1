@@ -1,11 +1,13 @@
 import React from 'react';
 import './App.css';
 import Footer from './Footer';
+import Nav from './nav';
 
 function Aboutme() {
     return (
         <>
             <div className='container '>
+                <Nav/>
                 <div className='aboutbox'>
                     <ul>
                         <li>

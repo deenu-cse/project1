@@ -15,6 +15,7 @@ ReactDOM.render(
     <BrowserRouter>
       <Routes>
         <Route exact path="/" element={<App />} />
+        <Route  path="/" element={<App />} />
         <Route path="/movies/:id" element={<Routall />} />
         <Route path="/About Us" element={<Aboutme />} />
         <Route path="/Contact Us" element={<Contact />} />

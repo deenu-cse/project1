@@ -1,11 +1,13 @@
 import React from 'react';
 import './App.css';
 import Footer from './Footer';
+import Nav from './nav';
 
 function Contact() {
     return (
         <>
             <div className='container '>
+                <Nav/>
                 <div className='aboutbox'>
                     <ul>
                         <li><img width="80" height="80" src="https://img.icons8.com/officel/80/add-contact-to-company.png" alt="add-contact-to-company" /></li>

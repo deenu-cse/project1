@@ -5,6 +5,9 @@ import spider from './spiderman-10235.png'
 import marvel from './marvel-logo-34303.png'
 
 export default function Footer() {
+   const scroll=()=>{
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+   }
     return (
         <div>
             <footer>
@@ -16,19 +19,19 @@ export default function Footer() {
                         <div className='company'>
                             <h1>Company</h1>
                             <Link to={'/About Us'}>
-                                <h2>About Us</h2>
+                                <h2 onClick={scroll}>About Us </h2>
                             </Link>
                         </div>
                         <div className='follow'>
                             <Link to={'/follow us'}>
-                            <h1>Follow Us</h1>
+                            <h1 onClick={scroll}>Follow Us</h1>
                             </Link>
                             <h2>Instagram</h2>
                             <h2>Github</h2>
                         </div>
                         <div className='contact'>
                             <Link to={'/Contact Us'}>
-                                <h1>Contact Us</h1>
+                                <h1 onClick={scroll}>Contact Us</h1>
                             </Link>
                             <h2>E-Mail</h2>
                             <h2>vdeendayal866@gmail.com</h2>
