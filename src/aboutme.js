@@ -8,7 +8,7 @@ function Aboutme() {
         <>
             <div className='container '>
                 <Nav/>
-                <div className='aboutbox'>
+                <div className=' containerx aboutbox'>
                     <ul>
                         <li>
                             <h1>About Us</h1>

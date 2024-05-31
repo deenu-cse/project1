@@ -3,13 +3,14 @@ import moviedata from './mdata'
 import { forwardRef, useEffect, useState } from 'react';
 import Nav from './nav';
 import Card from './card';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 import Slider from './slider';
 import spider from './spiderman-10235.png'
 import marvel from './marvel-logo-34303.png'
 import Footer from './Footer';
 
 function App() {
+
    let [selectmovie, setselectmovie] = useState("All Movie")
    let handlemovie = (event) => {
       setselectmovie(event.target.value)
@@ -24,7 +25,9 @@ function App() {
                      <Nav />
                   </div>
                   <div className='login'>
+                     <Link to={'/SignIn'}>
                      <button>Sign In</button>
+                     </Link>
                   </div>
                </nav>
                <div>
